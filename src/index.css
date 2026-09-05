@@ -1,0 +1,14 @@
+html {
+  background: #05070d;
+}
+
+body {
+  margin: 0;
+  background: #05070d;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
